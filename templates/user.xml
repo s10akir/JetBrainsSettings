@@ -1,0 +1,12 @@
+<templateSet group="user">
+  <template name="tgc" value="/*/ toggleable comment&#10;&#10;//*/" description="toggle comment" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="swc" value="/* switchable comment&#10;&#10;/*/&#10;&#10;//*/" description="switchable comment" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
