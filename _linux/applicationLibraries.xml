@@ -1,0 +1,101 @@
+<application>
+  <component name="libraryTable">
+    <library name="did_you_mean (v1.0.1, jruby-9.1.15.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/did_you_mean/extra_features" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/did_you_mean/core_ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/did_you_mean/spell_checkers" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/did_you_mean/extra_features" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/did_you_mean/core_ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/did_you_mean/spell_checkers" />
+      </SOURCES>
+    </library>
+    <library name="jruby-9.1.15.0-p0 facet library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib" />
+        <root url="jar://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/jruby.jar!/jruby" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib" />
+        <root url="jar://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/jruby.jar!/jruby" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs23" />
+      </SOURCES>
+    </library>
+    <library name="jruby-launcher (v1.1.4, jruby-9.1.15.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.4-java/pkg" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.4-java/build" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.4-java/inc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.4-java/resources" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.4-java/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.4-java/pkg" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.4-java/build" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.4-java/inc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.4-java/resources" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.4-java/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.4.1, jruby-9.1.15.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/minitest" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/minitest" />
+      </SOURCES>
+    </library>
+    <library name="power_assert (v0.2.3, jruby-9.1.15.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/power_assert" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/power_assert" />
+      </SOURCES>
+    </library>
+    <library name="rake (v10.4.2, jruby-9.1.15.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/rake/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/rake/contrib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/rake/loaders" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/rake/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/rake/contrib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/rake/loaders" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v4.2.0, jruby-9.1.15.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/context" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/generator" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/stats" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/context" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/generator" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/stats" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
